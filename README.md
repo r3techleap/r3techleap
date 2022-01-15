@@ -1,0 +1,5 @@
+- 👋 Hi, This is R3techleap
+- 👀 I’m interested in web development & web based application developement
+- 🌱 I’m currently learning bootstrap
+- 💞️ I’m looking to collaborate on school website development
+- 📫 How to reach me
